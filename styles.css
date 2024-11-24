@@ -108,13 +108,14 @@ p#result {
 }
 
 body{
+
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
   background: linear-gradient(135deg, #1A60b2, #40b392);
   color: #fff;
-  padding: 1rem;
+  padding: 2rem;
 }
 
 .container {
